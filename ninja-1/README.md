@@ -1,0 +1,2 @@
+# Fundamentals
+- Declare, assign variables
