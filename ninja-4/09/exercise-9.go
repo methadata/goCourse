@@ -11,6 +11,8 @@ func main() {
 	}
 	fmt.Println(songs)
 
+	songs["yo"] = []string{"La bamba", "Consejo de sabios", "twist & shout"}
+
 	for k, v := range songs {
 		fmt.Println(k)
 		for i, v2 := range v {
